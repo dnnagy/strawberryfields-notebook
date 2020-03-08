@@ -1,3 +1,4 @@
+# NOT USED! USE dnnagy/quantum-notebook INSTEAD!
 # strawberryfields-notebook
 Jupyter Notebook docker image for running [Strawberryfields](https://strawberryfields.readthedocs.io/en/stable/index.html)
 # Starting notebook
